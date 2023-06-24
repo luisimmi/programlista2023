@@ -1,4 +1,4 @@
-EXTINF:-1,LA 1 HD
+#EXTINF:-1,LA 1 HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158470
 #EXTINF:-1,LA 2 HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158471
