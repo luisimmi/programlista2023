@@ -1,527 +1,517 @@
-#EXTINF:-1,LA 1 HD
+
+#EXTINF:-1,TV LA 1 HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158470
-#EXTINF:-1,LA 2 HD
+#EXTINF:-1,TV LA 2 HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158471
-#EXTINF:-1,ANTENA 3 HD
+#EXTINF:-1,TV ANTENA 3 HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158472
-#EXTINF:-1,CUATRO HD
+#EXTINF:-1,TV CUATRO HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158473
-#EXTINF:-1,TELECINCO HD
+#EXTINF:-1,TV TELECINCO HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158474
-#EXTINF:-1,LA SEXTA HD
+#EXTINF:-1,TV LA SEXTA HD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158475
-#EXTINF:-1,CANAL 24 HORAS HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158476
-#EXTINF:-1,CANAL SUR ANDALUCIA
+#EXTINF:-1,TV CANAL SUR ANDALUCIA
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158477
-#EXTINF:-1,ARAGON TV
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158478
-#EXTINF:-1,ARAGON TV HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158479
-#EXTINF:-1,CANAL 24 HORAS
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158480
-#EXTINF:-1,FOX NEWS
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158481
-#EXTINF:-1,EXTREMADURA TV
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158482
-#EXTINF:-1,TELEMADRID
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158483
-#EXTINF:-1,CGTN ESPANHOL
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158484
-#EXTINF:-1,DE PELICULA
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158485
-#EXTINF:-1,TV GALICIA
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158486
-#EXTINF:-1,TV3 Catalynia HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158487
-#EXTINF:-1,TELESUR HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158488
-#EXTINF:-1,MARBELLA TV
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158489
-#EXTINF:-1,ANDALUCIA TV
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158490
-#EXTINF:-1,CANAL COIN
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158491
-#EXTINF:-1,7RM
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158492
-#EXTINF:-1,TV3 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158493
-#EXTINF:-1,TV Galicia Europa HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158494
-#EXTINF:-1,TV Galicia Infantil HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158495
-#EXTINF:-1,ALCARRIA TV
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158496
-#EXTINF:-1,INTERECONOMIA
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158497
-#EXTINF:-1,BOM CINE HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158498
-#EXTINF:-1,TVE Internacional Europa HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158499
-#EXTINF:-1,TVG CULTURAL HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158500
-#EXTINF:-1,TVG HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158501
-#EXTINF:-1,ETB SAT
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158502
-#EXTINF:-1,ETB 2 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158503
-#EXTINF:-1,DreamWorks
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158504
-#EXTINF:-1,RTVC CANARIAS HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158505
-#EXTINF:-1,LA SEXTA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158506
-#EXTINF:-1,CUATRO FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158507
-#EXTINF:-1,7RM FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158508
-#EXTINF:-1,INTERALMERIA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158509
-#EXTINF:-1,LA 1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158510
-#EXTINF:-1,LA 2 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158511
-#EXTINF:-1,DreamWorks FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158512
-#EXTINF:-1,TELECINCO FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158513
-#EXTINF:-1,|SP| ----- CINE -----
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158514
-#EXTINF:-1,MOVISTAR ESTRENOS HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158515
-#EXTINF:-1,MOVISTAR ACCION HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158516
-#EXTINF:-1,MOVISTAR COMEDIA HD
-
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158517
-#EXTINF:-1,MOVISTAR DRAMA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158518
-#EXTINF:-1,MOVISTAR DCINE HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158519
-#EXTINF:-1,HOLLYWOOD HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158520
-#EXTINF:-1,TCM HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158521
-#EXTINF:-1,SUNDANCE HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158522
-#EXTINF:-1,EXTREMADURA TV HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158523
-#EXTINF:-1,SOMOS HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158524
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158525
-#EXTINF:-1,MOVISTAR SERIES HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158526
-#EXTINF:-1,MOVISTAR ESTRENOS 2 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158527
-#EXTINF:-1,MOVISTAR SERIES 2 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158528
-#EXTINF:-1,CALLE 13 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158529
-#EXTINF:-1,FOX HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158530
-#EXTINF:-1,FOX LIFE HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158531
-#EXTINF:-1,AXN HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158532
-#EXTINF:-1,AXN WHITE HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158533
-#EXTINF:-1,AMC HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158534
-#EXTINF:-1,TNT HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158535
-#EXTINF:-1,SYFY HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158536
-#EXTINF:-1,COSMO HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158537
-#EXTINF:-1,COMEDY CENTRAL HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158538
-#EXTINF:-1,FDF
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158539
-#EXTINF:-1,A3 SERIES HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158540
-#EXTINF:-1,MEGA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158541
-#EXTINF:-1,ENERGY HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158542
-#EXTINF:-1,DECASA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158543
-#EXTINF:-1,CANAL COCINA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158544
-#EXTINF:-1,BE MAD HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158545
-#EXTINF:-1,BLAZE HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158546
-#EXTINF:-1,CANAL ODISEA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158547
-#EXTINF:-1,DIVINITY
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158548
-#EXTINF:-1,NOVA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158549
-#EXTINF:-1,NEOX HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158550
-#EXTINF:-1,MOVISTAR 0#
+#EXTINF:-1,TV MOVISTAR 0#
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158551
-#EXTINF:-1,BE MAD FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158552
-#EXTINF:-1,CANAL COCINA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158553
-#EXTINF:-1,DECASA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158554
-#EXTINF:-1,MOVISTAR DRAMA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158555
-#EXTINF:-1,HOLLYWOOD FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158556
-#EXTINF:-1,SUNDANCE FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158557
-#EXTINF:-1,MOVISTAR ESTRENOS 2 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158558
-#EXTINF:-1,SYFY FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158559
-#EXTINF:-1,XTRM HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158560
-#EXTINF:-1,MOVISTAR FEST FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158561
-#EXTINF:-1,MOVISTAR SERIES 2 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158562
-#EXTINF:-1,ALQUILER HD 1
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158563
-#EXTINF:-1,ALQUILER HD 2
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158564
-#EXTINF:-1,ALQUILER HD 3
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158565
-
-#EXTINF:-1,ALQUILER HD 4
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158566
-#EXTINF:-1,ALQUILER HD 5
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158567
-#EXTINF:-1,ALQUILER HD 6
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158568
-#EXTINF:-1,ALQUILER HD 7
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158569
-#EXTINF:-1,ALQUILER HD 8
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158570
-#EXTINF:-1,ALQUILER HD 9
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158571
-#EXTINF:-1,TNT FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158572
-#EXTINF:-1,MOVISTAR ESTRENOS FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158573
-#EXTINF:-1,MOVISTAR DCINE FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158574
-#EXTINF:-1,MOVISTAR COMEDIA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158575
-#EXTINF:-1,FOX LIFE FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158576
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158577
-#EXTINF:-1,CALLE 13 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158578
-#EXTINF:-1,AXN WHITE FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158579
-#EXTINF:-1,AMC FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158580
-#EXTINF:-1,MOVISTAR ACCION FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158581
-#EXTINF:-1,AXN FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158582
-#EXTINF:-1,COSMO FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158583
-#EXTINF:-1,FOX FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158584
-#EXTINF:-1,TCM FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158585
-#EXTINF:-1,MOVISTAR SERIES FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158586
-#EXTINF:-1,|SP| ----- MUSIC -----
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158587
-#EXTINF:-1,MTV
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158588
-#EXTINF:-1,CLASSICA
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158589
-#EXTINF:-1,MEZZO LIVE FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158590
-#EXTINF:-1,|SP| ----- INFANTIL -----
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158591
-#EXTINF:-1,DISNEY JR
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158592
-#EXTINF:-1,DISNEY XD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158593
-#EXTINF:-1,DISNEY CHANNEL HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158594
-#EXTINF:-1,NICKELODEON HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158595
-#EXTINF:-1,NICK JR
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158596
-#EXTINF:-1,CLAN HD (TVE)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158597
-#EXTINF:-1,BOING
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158598
-#EXTINF:-1,CANAL PANDA
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158599
-#EXTINF:-1,BABY TV
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158600
-#EXTINF:-1,DKISS HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158601
-#EXTINF:-1,TEN
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158602
-#EXTINF:-1,CAZA Y PESCA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158603
-#EXTINF:-1,CLAN FHD (TVE)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158604
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158605
-#EXTINF:-1,CAZA Y PESCA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158606
-#EXTINF:-1,NICKELODEON FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158607
-#EXTINF:-1,DISNEY+
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158608
-#EXTINF:-1,IBERALIA TV HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158609
-#EXTINF:-1,|SP| ----- DEPORTES -----
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158623
-#EXTINF:-1,LA LIGA BAR HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158624
-#EXTINF:-1,LA LIGA BAR FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158625
-#EXTINF:-1,LA LIGA TV BAR 2 [LIVE-EVENT]
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158626
-
-#EXTINF:-1,MOVISTAR LA LIGA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158627
-#EXTINF:-1,MOVISTAR LA LIGA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158628
-#EXTINF:-1,MOVISTAR LA LIGA 1 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158629
-#EXTINF:-1,MOVISTAR LA LIGA 1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158630
-#EXTINF:-1,MOVISTAR LA LIGA 2 HD  (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158631
-#EXTINF:-1,MOVISTAR LA LIGA 2 FHD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158632
-#EXTINF:-1,MOVISTAR LA LIGA 3 HD [Solo Eventos]
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158633
-#EXTINF:-1,MOVISTAR LA LIGA 3 FHD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158634
-#EXTINF:-1,MOVISTAR LA LIGA 4 HD  (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158635
-#EXTINF:-1,MOVISTAR LA LIGA 5 HD  (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158636
-#EXTINF:-1,MOVISTAR LA LIGA 6 HD  (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158637
-#EXTINF:-1,MOVISTAR LA LIGA 7 HD  (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158638
-#EXTINF:-1,MOVISTAR FORMULA 1 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158639
-#EXTINF:-1,MOVISTAR FORMULA 1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158640
-#EXTINF:-1,MOVISTAR GOLF HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158641
-#EXTINF:-1,MOVISTAR GOLF FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158642
-#EXTINF:-1,MOVISTAR TOROS HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158643
-#EXTINF:-1,MOVISTAR TOROS FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158644
-#EXTINF:-1,MOVISTAR DEPORTE 1 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158645
-#EXTINF:-1,MOVISTAR DEPORTE 2 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158646
-#EXTINF:-1,MOVISTAR  FUTBOL HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158647
-#EXTINF:-1,MOVISTAR MULTIDEPORTE HD/FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158648
-#EXTINF:-1,MOVISTAR VAMOS HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158649
-#EXTINF:-1,MOVISTAR VAMOS FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158650
-#EXTINF:-1,MOVISTAR DEPORTES HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158651
-#EXTINF:-1,MOVISTAR DEPORTES FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158652
-#EXTINF:-1,MOVISTAR DEPORTES 1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158653
-#EXTINF:-1,MOVISTAR DEPORTES 2 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158654
-#EXTINF:-1,MOVISTAR DEPORTES 3 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158655
-#EXTINF:-1,MOVISTAR DEPORTES 4 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158656
-#EXTINF:-1,MOVISTAR DEPORTES 5 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158657
-#EXTINF:-1,MOVISTAR DEPORTES 6 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158658
-#EXTINF:-1,MOVISTAR DEPORTES 7 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158659
-#EXTINF:-1,M+ Liga De Campeones HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158660
-#EXTINF:-1,M+ Liga De Campeones FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158661
-#EXTINF:-1,M+ Liga De Campeones 1 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158662
-#EXTINF:-1,M+ Liga De Campeones 1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158663
-#EXTINF:-1,M+ Liga De Campeones 2 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158664
-#EXTINF:-1,M+ Liga De Campeones 2 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158665
-#EXTINF:-1,M+ Liga De Campeones 3 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158666
-#EXTINF:-1,M+ Liga De Campeones 3 FHD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158667
-
-#EXTINF:-1,M+ Liga De Campeones 4 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158668
-#EXTINF:-1,M+ Liga De Campeones 5 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158669
-#EXTINF:-1,M+ Liga De Campeones 6 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158670
-#EXTINF:-1,M+ Liga De Campeones 7 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158671
-#EXTINF:-1,M+ Liga De Campeones 8 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158672
-#EXTINF:-1,M+ Liga De Campeones 9 HD (Solo Eventos)
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158673
-#EXTINF:-1,EUROSPORT 1 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158674
-#EXTINF:-1,EUROSPORT 1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158675
-#EXTINF:-1,EUROSPORT 2 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158676
-#EXTINF:-1,EUROSPORT 2 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158677
-#EXTINF:-1,DAZN 1 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158678
-#EXTINF:-1,DAZN 1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158679
-#EXTINF:-1,DAZN 2 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158680
-#EXTINF:-1,DAZN 2 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158681
-#EXTINF:-1,DAZN 3 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158682
-#EXTINF:-1,DAZN 3 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158683
-#EXTINF:-1,DAZN 4 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158684
-#EXTINF:-1,DAZN 4 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158685
-#EXTINF:-1,DAZN F1 FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158686
-#EXTINF:-1,BARCA TV HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158687
-#EXTINF:-1,BARCA TV FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158688
-#EXTINF:-1,REAL MADRID TV HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158689
-#EXTINF:-1,REAL MADRID TV FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158690
-#EXTINF:-1,GOL TV HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158691
-#EXTINF:-1,GOL TV FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158692
-#EXTINF:-1,TELEDEPORTE HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158693
-#EXTINF:-1,TELEDEPORTE FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158694
-#EXTINF:-1,|SP| ----- DOCUMENTALES -----
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158610
-#EXTINF:-1,HISTORIA HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158611
-#EXTINF:-1,CRIMEN+ INVESTIGACION
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158612
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158613
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158614
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158615
-#EXTINF:-1,DMAX
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158616
-#EXTINF:-1,VIAJAR HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158617
-#EXTINF:-1,HISTORIA FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158618
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158619
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158620
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158621
-#EXTINF:-1,VIAJAR FHD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158622
-#EXTINF:-1,|SP| ----- HEVC -----
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158695
-#EXTINF:-1,M. ACCION HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158696
-#EXTINF:-1,M.SERIES HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158697
-#EXTINF:-1,#0 HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158698
-#EXTINF:-1,MOVISTAR FORMULA 1 HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158699
-#EXTINF:-1,MOVISTAR GOLF HEVC
-
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158700
-#EXTINF:-1,LA LIGA BAR HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158701
-#EXTINF:-1,M+ Liga De Campeones 1 FHD.
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158702
-#EXTINF:-1,MOVISTAR DEPORTES 1 HD
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158703
-#EXTINF:-1,MOVISTAR DEPORTES HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158704
-#EXTINF:-1,MOVISTAR VAMOS HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158705
-#EXTINF:-1,MOVISTAR LA LIGA 1 HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158706
-#EXTINF:-1,MOVISTAR LA LIGA HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158707
-#EXTINF:-1,EUROSPORT1 HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158708
-#EXTINF:-1,MOVISTAR TOROS HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158709
-#EXTINF:-1,NICKELODEON HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158710
-#EXTINF:-1,NATIONAL GEO WILD HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158711
-#EXTINF:-1,NAT GEO HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158712
-#EXTINF:-1,CAZA Y PESCA HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158713
-#EXTINF:-1,SYFY HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158714
-#EXTINF:-1,MOVISTAR CINEDOC / ROLL HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158715
-#EXTINF:-1,FOX LIFE HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158716
-#EXTINF:-1,FOX HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158717
-#EXTINF:-1,COSMO HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158718
-#EXTINF:-1,COMEDY CENTRAL HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158719
-#EXTINF:-1,CALLE 13 HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158720
-#EXTINF:-1,AXN WHITE HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158721
-#EXTINF:-1,AXN HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158722
-#EXTINF:-1,AMC HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158723
-#EXTINF:-1,LA SEXTA HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158724
-#EXTINF:-1,TELECINCO HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158725
-#EXTINF:-1,CUATRO HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158726
-#EXTINF:-1,ANTENA 3 FHD
+#EXTINF:-1,TV MOVISTAR SERIES HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158526
+#EXTINF:-1,TV MOVISTAR SERIES 2 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158528
+#EXTINF:-1,TV MOVISTAR ESTRENOS HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158515
+#EXTINF:-1,TV MOVISTAR ESTRENOS 2 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158527
+#EXTINF:-1,TV MOVISTAR ACCION HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158516
+#EXTINF:-1,TV MOVISTAR COMEDIA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158517
+#EXTINF:-1,TV MOVISTAR DRAMA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158518
+#EXTINF:-1,TV MOVISTAR DCINE HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158519
+#EXTINF:-1,TV ARAGON TV
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158478
+#EXTINF:-1,TV ARAGON TV HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158479
+#EXTINF:-1,TV CANAL 24 HORAS
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158480
+#EXTINF:-1,TV FOX NEWS
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158481
+#EXTINF:-1,TV EXTREMADURA TV
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158482
+#EXTINF:-1,TV TELEMADRID
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158483
+#EXTINF:-1,TV CGTN ESPANHOL
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158484
+#EXTINF:-1,TV DE PELICULA
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158485
+#EXTINF:-1,TV TV GALICIA
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158486
+#EXTINF:-1,TV TV3 Catalynia HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158487
+#EXTINF:-1,TV TELESUR HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158488
+#EXTINF:-1,TV MARBELLA TV
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158489
+#EXTINF:-1,TV ANDALUCIA TV
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158490
+#EXTINF:-1,TV CANAL 24 HORAS HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158476
+#EXTINF:-1,TV CANAL COIN
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158491
+#EXTINF:-1,TV 7RM
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158492
+#EXTINF:-1,TV TV3 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158493
+#EXTINF:-1,TV TV Galicia Europa HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158494
+#EXTINF:-1,TV TV Galicia Infantil HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158495
+#EXTINF:-1,TV ALCARRIA TV
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158496
+#EXTINF:-1,TV INTERECONOMIA
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158497
+#EXTINF:-1,TV BOM CINE HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158498
+#EXTINF:-1,TV TVE Internacional Europa HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158499
+#EXTINF:-1,TV TVG CULTURAL HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158500
+#EXTINF:-1,TV TVG HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158501
+#EXTINF:-1,TV ETB SAT
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158502
+#EXTINF:-1,TV ETB 2 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158503
+#EXTINF:-1,TV DreamWorks
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158504
+#EXTINF:-1,TV RTVC CANARIAS HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158505
+#EXTINF:-1,TV 7RM FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158508
+#EXTINF:-1,TV INTERALMERIA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158509
+#EXTINF:-1,TV LA 1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158510
+#EXTINF:-1,TV LA 2 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158511
+#EXTINF:-1,TV ANTENA 3 FHD
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158727
-#EXTINF:-1,ANTENA 3 HEVC
-http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158728
-#EXTINF:-1,LA 1 HEVC
+#EXTINF:-1,TV CUATRO FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158507
+#EXTINF:-1,TV TELECINCO FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158513
+#EXTINF:-1,TV LA SEXTA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158506
+#EXTINF:-1,TV MOVISTAR ESTRENOS FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158573
+#EXTINF:-1,TV MOVISTAR ESTRENOS 2 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158558
+#EXTINF:-1,TV MOVISTAR SERIES FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158586
+#EXTINF:-1,TV MOVISTAR SERIES 2 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158562
+#EXTINF:-1,TV MOVISTAR ACCION FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158581
+#EXTINF:-1,TV MOVISTAR DCINE FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158574
+#EXTINF:-1,TV MOVISTAR COMEDIA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158575
+#EXTINF:-1,TV DreamWorks FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158512
+
+#EXTINF:-1,TV HOLLYWOOD HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158520
+#EXTINF:-1,TV TCM HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158521
+#EXTINF:-1,TV SUNDANCE HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158522
+#EXTINF:-1,TV EXTREMADURA TV HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158523
+#EXTINF:-1,TV SOMOS HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158524
+#EXTINF:-1,TV PARAMOUNT CHANNEL
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158525
+#EXTINF:-1,TV CALLE 13 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158529
+#EXTINF:-1,TV FOX HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158530
+#EXTINF:-1,TV FOX LIFE HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158531
+#EXTINF:-1,TV AXN HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158532
+#EXTINF:-1,TV AXN WHITE HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158533
+#EXTINF:-1,TV AMC HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158534
+#EXTINF:-1,TV TNT HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158535
+#EXTINF:-1,TV SYFY HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158536
+#EXTINF:-1,TV COSMO HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158537
+#EXTINF:-1,TV COMEDY CENTRAL HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158538
+#EXTINF:-1,TV FDF
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158539
+#EXTINF:-1,TV A3 SERIES HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158540
+#EXTINF:-1,TV MEGA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158541
+#EXTINF:-1,TV ENERGY HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158542
+#EXTINF:-1,TV DECASA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158543
+#EXTINF:-1,TV CANAL COCINA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158544
+#EXTINF:-1,TV BE MAD HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158545
+#EXTINF:-1,TV BLAZE HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158546
+#EXTINF:-1,TV CANAL ODISEA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158547
+#EXTINF:-1,TV DIVINITY
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158548
+#EXTINF:-1,TV NOVA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158549
+#EXTINF:-1,TV NEOX HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158550
+#EXTINF:-1,TV BE MAD FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158552
+#EXTINF:-1,TV CANAL COCINA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158553
+#EXTINF:-1,TV DECASA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158554
+#EXTINF:-1,TV MOVISTAR DRAMA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158555
+#EXTINF:-1,TV HOLLYWOOD FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158556
+#EXTINF:-1,TV SUNDANCE FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158557
+#EXTINF:-1,TV SYFY FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158559
+#EXTINF:-1,TV XTRM HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158560
+#EXTINF:-1,TV MOVISTAR FEST FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158561
+#EXTINF:-1,TV ALQUILER HD 1
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158563
+#EXTINF:-1,TV ALQUILER HD 2
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158564
+#EXTINF:-1,TV ALQUILER HD 3
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158565
+#EXTINF:-1,TV ALQUILER HD 4
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158566
+#EXTINF:-1,TV ALQUILER HD 5
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158567
+#EXTINF:-1,TV ALQUILER HD 6
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158568
+#EXTINF:-1,TV ALQUILER HD 7
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158569
+#EXTINF:-1,TV ALQUILER HD 8
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158570
+#EXTINF:-1,TV ALQUILER HD 9
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158571
+#EXTINF:-1,TV TNT FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158572
+#EXTINF:-1,TV FOX LIFE FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158576
+#EXTINF:-1,TV COMEDY CENTRAL FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158577
+#EXTINF:-1,TV CALLE 13 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158578
+#EXTINF:-1,TV AXN WHITE FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158579
+#EXTINF:-1,TV AMC FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158580
+#EXTINF:-1,TV AXN FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158582
+#EXTINF:-1,TV COSMO FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158583
+#EXTINF:-1,TV FOX FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158584
+#EXTINF:-1,TV TCM FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158585
+
+#EXTINF:-1,TV MTV
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158588
+#EXTINF:-1,TV CLASSICA
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158589
+#EXTINF:-1,TV MEZZO LIVE FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158590
+
+#EXTINF:-1,TV DISNEY JR
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158592
+#EXTINF:-1,TV DISNEY XD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158593
+#EXTINF:-1,TV DISNEY CHANNEL HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158594
+#EXTINF:-1,TV NICKELODEON HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158595
+#EXTINF:-1,TV NICK JR
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158596
+#EXTINF:-1,TV CLAN HD (TVE)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158597
+#EXTINF:-1,TV BOING
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158598
+#EXTINF:-1,TV CANAL PANDA
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158599
+#EXTINF:-1,TV BABY TV
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158600
+#EXTINF:-1,TV DKISS HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158601
+#EXTINF:-1,TV TEN
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158602
+#EXTINF:-1,TV CAZA Y PESCA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158603
+#EXTINF:-1,TV CLAN FHD (TVE)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158604
+#EXTINF:-1,TV DISNEY CHANNEL FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158605
+#EXTINF:-1,TV CAZA Y PESCA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158606
+#EXTINF:-1,TV NICKELODEON FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158607
+#EXTINF:-1,TV DISNEY+
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158608
+#EXTINF:-1,TV IBERALIA TV HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158609
+
+#EXTINF:-1,TV LA LIGA BAR HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158624
+#EXTINF:-1,TV LA LIGA BAR FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158625
+#EXTINF:-1,TV LA LIGA TV BAR 2 [LIVE-EVENT]
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158626
+#EXTINF:-1,TV MOVISTAR LA LIGA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158627
+#EXTINF:-1,TV MOVISTAR LA LIGA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158628
+#EXTINF:-1,TV MOVISTAR LA LIGA 1 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158629
+#EXTINF:-1,TV MOVISTAR LA LIGA 1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158630
+#EXTINF:-1,TV MOVISTAR LA LIGA 2 HD  (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158631
+#EXTINF:-1,TV MOVISTAR LA LIGA 2 FHD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158632
+#EXTINF:-1,TV MOVISTAR LA LIGA 3 HD [Solo Eventos]
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158633
+#EXTINF:-1,TV MOVISTAR LA LIGA 3 FHD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158634
+#EXTINF:-1,TV MOVISTAR LA LIGA 4 HD  (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158635
+#EXTINF:-1,TV MOVISTAR LA LIGA 5 HD  (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158636
+#EXTINF:-1,TV MOVISTAR LA LIGA 6 HD  (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158637
+#EXTINF:-1,TV MOVISTAR LA LIGA 7 HD  (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158638
+#EXTINF:-1,TV MOVISTAR FORMULA 1 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158639
+#EXTINF:-1,TV MOVISTAR FORMULA 1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158640
+#EXTINF:-1,TV MOVISTAR GOLF HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158641
+#EXTINF:-1,TV MOVISTAR GOLF FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158642
+#EXTINF:-1,TV MOVISTAR TOROS HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158643
+#EXTINF:-1,TV MOVISTAR TOROS FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158644
+#EXTINF:-1,TV MOVISTAR DEPORTE 1 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158645
+#EXTINF:-1,TV MOVISTAR DEPORTE 2 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158646
+#EXTINF:-1,TV MOVISTAR  FUTBOL HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158647
+#EXTINF:-1,TV MOVISTAR MULTIDEPORTE HD/FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158648
+#EXTINF:-1,TV MOVISTAR VAMOS HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158649
+#EXTINF:-1,TV MOVISTAR VAMOS FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158650
+#EXTINF:-1,TV MOVISTAR DEPORTES HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158651
+#EXTINF:-1,TV MOVISTAR DEPORTES FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158652
+#EXTINF:-1,TV MOVISTAR DEPORTES 1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158653
+#EXTINF:-1,TV MOVISTAR DEPORTES 2 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158654
+#EXTINF:-1,TV MOVISTAR DEPORTES 3 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158655
+#EXTINF:-1,TV MOVISTAR DEPORTES 4 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158656
+#EXTINF:-1,TV MOVISTAR DEPORTES 5 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158657
+#EXTINF:-1,TV MOVISTAR DEPORTES 6 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158658
+#EXTINF:-1,TV MOVISTAR DEPORTES 7 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158659
+#EXTINF:-1,TV M+ Liga De Campeones HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158660
+#EXTINF:-1,TV M+ Liga De Campeones FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158661
+#EXTINF:-1,TV M+ Liga De Campeones 1 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158662
+#EXTINF:-1,TV M+ Liga De Campeones 1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158663
+#EXTINF:-1,TV M+ Liga De Campeones 2 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158664
+#EXTINF:-1,TV M+ Liga De Campeones 2 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158665
+#EXTINF:-1,TV M+ Liga De Campeones 3 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158666
+#EXTINF:-1,TV M+ Liga De Campeones 3 FHD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158667
+#EXTINF:-1,TV M+ Liga De Campeones 4 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158668
+#EXTINF:-1,TV M+ Liga De Campeones 5 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158669
+#EXTINF:-1,TV M+ Liga De Campeones 6 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158670
+#EXTINF:-1,TV M+ Liga De Campeones 7 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158671
+#EXTINF:-1,TV M+ Liga De Campeones 8 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158672
+#EXTINF:-1,TV M+ Liga De Campeones 9 HD (Solo Eventos)
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158673
+#EXTINF:-1,TV EUROSPORT 1 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158674
+#EXTINF:-1,TV EUROSPORT 1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158675
+#EXTINF:-1,TV EUROSPORT 2 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158676
+#EXTINF:-1,TV EUROSPORT 2 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158677
+#EXTINF:-1,TV DAZN 1 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158678
+#EXTINF:-1,TV DAZN 1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158679
+#EXTINF:-1,TV DAZN 2 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158680
+#EXTINF:-1,TV DAZN 2 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158681
+#EXTINF:-1,TV DAZN 3 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158682
+#EXTINF:-1,TV DAZN 3 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158683
+#EXTINF:-1,TV DAZN 4 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158684
+#EXTINF:-1,TV DAZN 4 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158685
+#EXTINF:-1,TV DAZN F1 FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158686
+#EXTINF:-1,TV BARCA TV HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158687
+#EXTINF:-1,TV BARCA TV FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158688
+#EXTINF:-1,TV REAL MADRID TV HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158689
+#EXTINF:-1,TV REAL MADRID TV FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158690
+#EXTINF:-1,TV GOL TV HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158691
+#EXTINF:-1,TV GOL TV FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158692
+#EXTINF:-1,TV TELEDEPORTE HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158693
+#EXTINF:-1,TV TELEDEPORTE FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158694
+
+#EXTINF:-1,TV HISTORIA HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158611
+#EXTINF:-1,TV CRIMEN+ INVESTIGACION
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158612
+#EXTINF:-1,TV DISCOVERY CHANNEL HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158613
+#EXTINF:-1,TV NATIONAL GEOGRAPHIC HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158614
+#EXTINF:-1,TV NATIONAL GEOGRAPHIC WILD HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158615
+#EXTINF:-1,TV DMAX
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158616
+#EXTINF:-1,TV VIAJAR HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158617
+#EXTINF:-1,TV HISTORIA FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158618
+#EXTINF:-1,TV DISCOVERY CHANNEL FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158619
+#EXTINF:-1,TV NATIONAL GEOGRAPHIC WILD FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158620
+#EXTINF:-1,TV NATIONAL GEOGRAPHIC FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158621
+#EXTINF:-1,TV VIAJAR FHD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158622
+
+#EXTINF:-1,TV LA 1 HEVC
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158729
-#EXTINF:-1,MOVISTAR ESTRENOS HEVC
+#EXTINF:-1,TV ANTENA 3 HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158728
+#EXTINF:-1,TV CUATRO HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158726
+#EXTINF:-1,TV TELECINCO HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158725
+#EXTINF:-1,TV LA SEXTA HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158724
+#EXTINF:-1,TV MOVISTAR ESTRENOS HEVC
 http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158730
+#EXTINF:-1,TV M. ACCION HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158696
+#EXTINF:-1,TV M.SERIES HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158697
+#EXTINF:-1,TV #0 HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158698
+#EXTINF:-1,TV MOVISTAR FORMULA 1 HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158699
+#EXTINF:-1,TV MOVISTAR GOLF HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158700
+#EXTINF:-1,TV LA LIGA BAR HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158701
+#EXTINF:-1,TV M+ Liga De Campeones 1 FHD.
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158702
+#EXTINF:-1,TV MOVISTAR DEPORTES 1 HD
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158703
+#EXTINF:-1,TV MOVISTAR DEPORTES HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158704
+#EXTINF:-1,TV MOVISTAR VAMOS HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158705
+#EXTINF:-1,TV MOVISTAR LA LIGA 1 HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158706
+#EXTINF:-1,TV MOVISTAR LA LIGA HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158707
+#EXTINF:-1,TV EUROSPORT1 HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158708
+#EXTINF:-1,TV MOVISTAR TOROS HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158709
+#EXTINF:-1,TV NICKELODEON HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158710
+#EXTINF:-1,TV NATIONAL GEO WILD HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158711
+#EXTINF:-1,TV NAT GEO HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158712
+#EXTINF:-1,TV CAZA Y PESCA HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158713
+#EXTINF:-1,TV SYFY HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158714
+#EXTINF:-1,TV MOVISTAR CINEDOC / ROLL HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158715
+#EXTINF:-1,TV FOX LIFE HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158716
+#EXTINF:-1,TV FOX HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158717
+#EXTINF:-1,TV COSMO HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158718
+#EXTINF:-1,TV COMEDY CENTRAL HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158719
+#EXTINF:-1,TV CALLE 13 HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158720
+#EXTINF:-1,TV AXN WHITE HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158721
+#EXTINF:-1,TV AXN HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158722
+#EXTINF:-1,TV AMC HEVC
+http://metalbchm.xyz:8080/x3jbac23pD/hrnf82Wh97/158723
